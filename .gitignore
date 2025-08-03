@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+.python_packages
+
+# Azure Functions
+local.settings.json
+.funcignore
+
+# VS Code settings (optional - uncomment if you want to ignore)
+# .vscode/
+
+# PowerShell scripts (optional - uncomment if you want to ignore deployment scripts)
+# *.ps1

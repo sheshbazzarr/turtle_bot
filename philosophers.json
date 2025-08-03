@@ -1,0 +1,40 @@
+{
+  "philosophers": {
+    "socrates": {
+      "name": "Socrates",
+      "era": "Ancient Greece (469-399 BCE)",
+      "school": "Classical Greek Philosophy",
+      "summary": "Socrates was a classical Greek philosopher credited as one of the founders of Western philosophy. He is known for the Socratic method of questioning, his ethical teachings, and his famous statement 'The unexamined life is not worth living.' He never wrote down his teachings, and most of what we know about him comes from his students, particularly Plato.",
+      "key_works": ["Apology", "Crito", "Phaedo"],
+      "famous_quotes": [
+        "The unexamined life is not worth living.",
+        "I know that I know nothing.",
+        "The only true wisdom is in knowing you know nothing."
+      ]
+    },
+    "plato": {
+      "name": "Plato",
+      "era": "Ancient Greece (428-348 BCE)",
+      "school": "Platonism",
+      "summary": "Plato was a student of Socrates and the teacher of Aristotle. He founded the Academy in Athens, the first institution of higher learning in the Western world. His philosophical works, written in dialogue form, explore justice, beauty, equality, and the nature of reality. He is best known for his Theory of Forms and the Allegory of the Cave.",
+      "key_works": ["The Republic", "Symposium", "Phaedo", "Apology"],
+      "famous_quotes": [
+        "Wise men speak because they have something to say; fools because they have to say something.",
+        "The measure of a man is what he does with power.",
+        "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."
+      ]
+    },
+    "aristotle": {
+      "name": "Aristotle",
+      "era": "Ancient Greece (384-322 BCE)",
+      "school": "Aristotelianism",
+      "summary": "Aristotle was a student of Plato and the teacher of Alexander the Great. He made significant contributions to logic, metaphysics, mathematics, physics, biology, botany, ethics, politics, agriculture, medicine, dance, and theatre. His systematic approach to philosophy and science laid the foundation for much of Western thought.",
+      "key_works": ["Nicomachean Ethics", "Politics", "Metaphysics", "Poetics"],
+      "famous_quotes": [
+        "Happiness is the meaning and the purpose of life, the whole aim and end of human existence.",
+        "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+        "The roots of education are bitter, but the fruit is sweet."
+      ]
+    }
+  }
+} 

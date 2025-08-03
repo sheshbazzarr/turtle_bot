@@ -1,3 +1,5 @@
-azure-functions==1.17.0
-python-telegram-bot==20.7 
-python 3.12.0
+azure-functions
+python-telegram-bot
+azure-identity
+azure-keyvault-secrets
+azure-storage-blob
